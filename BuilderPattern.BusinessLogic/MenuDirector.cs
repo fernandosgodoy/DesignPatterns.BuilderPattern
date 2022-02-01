@@ -1,6 +1,6 @@
-﻿using System.Collections.Generic;
+﻿using BuilderPattern.BusinessLogic.Domain;
 
-namespace BuilderPatternConsoleApp.FastFoodOrderBuild
+namespace BuilderPattern.BusinessLogic
 {
     public class MenuDirector
     {

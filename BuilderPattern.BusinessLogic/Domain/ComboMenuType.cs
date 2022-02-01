@@ -1,4 +1,4 @@
-﻿namespace BuilderPatternConsoleApp.FastFoodOrderBuild
+﻿namespace BuilderPattern.BusinessLogic.Domain
 {
     public enum ComboMenuType
     {

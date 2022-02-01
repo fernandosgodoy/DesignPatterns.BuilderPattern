@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using BuilderPattern.BusinessLogic;
+using BuilderPattern.BusinessLogic.Domain;
 using Newtonsoft.Json;
 
 namespace BuilderPatternConsoleApp.FastFoodOrderBuild

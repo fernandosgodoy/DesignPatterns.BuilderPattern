@@ -1,4 +1,6 @@
-﻿namespace BuilderPatternConsoleApp.FastFoodOrderBuild
+﻿using BuilderPattern.BusinessLogic.Domain;
+
+namespace BuilderPattern.BusinessLogic
 {
     /// <summary>
     /// This interface isn't in the GoF example.
