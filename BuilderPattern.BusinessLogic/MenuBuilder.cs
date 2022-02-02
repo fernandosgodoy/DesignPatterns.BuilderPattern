@@ -12,6 +12,11 @@ namespace BuilderPattern.BusinessLogic
 
         private Menu _menu;
 
+        public MenuBuilder()
+        {
+            this.Reset();
+        }
+
         public void BuildAdditional(int additionalOption, int quantity)
         {
             this._menu.Additional.Add(new MenuAdditional()
